@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Release\\Collision.h.obj",
+            "outputs": [
+                "C:\\Development\\Cpp\\Learning_SFML\\Learning_SFML\\x64\\Release\\vc143.pdb",
+                "x64\\Release\\",
+                "C:\\Development\\Cpp\\Learning_SFML\\Learning_SFML\\x64\\Release\\Collision.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "Flapy Bird\\utils\\Collision.h",
+                    "source-path": "c:\\development\\cpp\\learning_sfml\\learning_sfml\\flapy bird\\utils\\collision.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
